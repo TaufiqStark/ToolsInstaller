@@ -1,12 +1,13 @@
-#!/bin/sh
-
+#! / bin / sh
+# Donasi Saya di https://paypal.me/DonateTaufiq jika anda ingin merecode 
 
 #perulangan
 ulang='y' 
 while [ $ulang = 'y' ]; 
 do 
    #menu utama 
-   echo '1) Install Red Hawk' 
+   echo 'Tools by Taufiq Stark\nDonasi saya di https://paypal.me/DonateTaufiq\n\n'
+   echo '1) Instal Red Hawk '
    echo '2) Install cmbah-v2' 
    echo '3) Install LazyGo' 
    echo '4) Install FbCrack' 
